@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-**I'm Michelle Jiam, a software engineering student at [Codam](https://www.codam.nl/en/), a member of the [42 Network](https://www.codam.nl/en/the-42-network).**
+**I'm Michelle Jiam, a software engineering student at [Codam](https://www.codam.nl/en/), a [42 Network](https://www.codam.nl/en/the-42-network) school located in Amsterdam.**
 
 I enjoy solving puzzles 🧩 of all shapes and sizes.
 
