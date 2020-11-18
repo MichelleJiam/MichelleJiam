@@ -9,7 +9,7 @@ Here on my GitHub you'll find both school and personal projects, including teste
 My interests include cybersecurity 👩‍💻, user-centered design/development 🖥️, and really good cappuccinos ☕. 
 
 ---
-#### Skills
+### Skills
 
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
