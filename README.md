@@ -6,17 +6,12 @@ I enjoy solving puzzles 🧩 of all shapes and sizes.
 
 Here on my GitHub you'll find both school and personal projects, including testers and coding competition submissions.
 
-My interests include cybersecurity 👩‍💻, user-centered design/development 🖥️, and really good cappuccinos ☕. 
+My interests include cybersecurity 👩‍💻, user-centered design/development 🖥️, and where to get the best pastries in town 🥐. 
 
 ---
-### Skills
 
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleJiam&layout=compact&langs_count=8&hide=Swift,Roff)](https://github.com/anuraghazra/github-readme-stats)  
+[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelleJiam&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 Don't hesitate to contact me!
